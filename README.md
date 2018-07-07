@@ -21,15 +21,15 @@ GUI is desgined using PyQt Designer.
 <p align="center">
 <img width="40%" src="Images/GUI2.png" />
 <br>
-<b>Figure 1. Graphical interface to operate simple DNA sequence analysis functionality - Linux</b>
+<b>Figure 2. Graphical interface to operate simple DNA sequence analysis functionality - Linux</b>
 </p>
 
 # Binaries
 
 Executable files for Windows & Linux (64 bit) are available from Sourceforge.
 
-Linux (https://sourceforge.net/projects/bioseq1/files/BioSeq.zip/download)
-Windows (https://sourceforge.net/projects/bioseq1/files/BioSeq.exe/download)
+- Linux (https://sourceforge.net/projects/bioseq1/files/BioSeq.zip/download)
+- Windows (https://sourceforge.net/projects/bioseq1/files/BioSeq.exe/download)
 
 # Source Code
 
