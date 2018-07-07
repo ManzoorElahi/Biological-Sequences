@@ -15,12 +15,21 @@ GUI is desgined using PyQt Designer.
 <p align="center">
 <img width="40%" src="Images/GUI.png" />
 <br>
-<b>Figure 1. Graphical interface to operate simple DNA sequence analysis functionality</b> 
+<b>Figure 1. Graphical interface to operate simple DNA sequence analysis functionality - Windows</b>
+</p>
+
+<p align="center">
+<img width="40%" src="Images/GUI2.png" />
+<br>
+<b>Figure 1. Graphical interface to operate simple DNA sequence analysis functionality - Linux</b>
 </p>
 
 # Binaries
 
-Executable files for Windows & Linux (64 bit) are available in the Binaries folder.
+Executable files for Windows & Linux (64 bit) are available from Sourceforge.
+
+Linux (https://sourceforge.net/projects/bioseq1/files/BioSeq.zip/download)
+Windows (https://sourceforge.net/projects/bioseq1/files/BioSeq.exe/download)
 
 # Source Code
 
@@ -29,4 +38,3 @@ Source code is available in the Scripts folder.
 # Reference
 
 Stevens, T., & Boucher, W. (2015). Graphical interfaces. In Python Programming for Biology: Bioinformatics and Beyond (pp. 566-581). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511843556.027
-
